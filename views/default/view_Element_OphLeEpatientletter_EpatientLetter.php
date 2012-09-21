@@ -30,7 +30,7 @@
 						};
 					?></span></td>
 			</tr>
-		<!--
+			<?php /*
 			<tr>
 				<td width="30%"><?php  echo CHtml::encode($element->getAttributeLabel('epatient_id'))?>:</td>
 				<td><span class="big"><?php  echo $element->epatient_id ?></span></td>
@@ -95,6 +95,6 @@
 				<td width="30%"><?php  echo CHtml::encode($element->getAttributeLabel('patient_id'))?>:</td>
 				<td><span class="big"><?php  echo $element->patient_id ?></span></td>
 			</tr>
-		-->
+			*/?>
 						</tbody>
 </table>
