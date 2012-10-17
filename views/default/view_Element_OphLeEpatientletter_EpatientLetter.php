@@ -1,7 +1,7 @@
 
 <h4 class="elementTypeName"><?php  echo $element->elementType->name ?></h4>
 
-<table class="subtleWhite normalText">
+<table class="subtleWhiteNoHover normalText">
 	<tbody>
 								<tr>
 				<td width="30%"><?php  echo CHtml::encode($element->getAttributeLabel('recipient_html'))?>:</td>
